@@ -16,11 +16,14 @@
 # 📖 Wiki
 
 <div align="center">
-  <a href="https://github.com/CodeSystem2022/Proyecto-Integrador-Cuarto-Semestre-Kodifikades/wiki">
-    <img src="https://github.com/CodeSystem2022/Proyecto-Integrador-Cuarto-Semestre-Kodifikades/assets/81488933/dd5ffec8-889f-4bf7-8655-dc7e13225749">
-  </a>
+    <img src="https://github.com/CodeSystem2022/Proyecto-Integrador-Cuarto-Semestre-Kodifikades/assets/81488933/64ecbe4b-6aa3-4b8e-9e80-622ab106a6e0">
 </div>
 
+<div align="center">
+     <a href="https://github.com/CodeSystem2022/Proyecto-Integrador-Cuarto-Semestre-Kodifikades/wiki">
+   ¡HAZ CLICK AQUÍ!
+  </a>
+</div>
 
 
 ---
