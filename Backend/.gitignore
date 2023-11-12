@@ -1,6 +1,0 @@
-.vercel
-.next
-node_modules
-next-env.d.ts
-.env.local
-.jest
