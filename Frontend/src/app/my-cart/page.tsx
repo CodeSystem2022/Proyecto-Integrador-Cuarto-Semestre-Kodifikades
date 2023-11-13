@@ -39,7 +39,6 @@ export default function MyCart(){
                 <Image src={item.img} width='200' height='60' alt={item.title} className="rounded-xl object-cover" />
               </figure>
             </Link>
-            <button className='btn-circle bg-red-500 text-sm font-semibold justify-end w-full'>Remover producto</button>
           </div>
         ))}
       </div> 
